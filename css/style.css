@@ -1,0 +1,9 @@
+.card {
+    height: 350px;  /* Altura fija para todas las tarjetas */
+}
+
+.card-img-top {
+    width: 100%;        /* La imagen ocupará el 100% del ancho */
+    height: 200px;      /* Altura fija para las imágenes */
+    object-fit: cover;  /* Las imágenes se ajustan sin distorsionarse */
+}
